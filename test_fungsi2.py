@@ -4,7 +4,7 @@ from fungsi2 import *
 # =============================================
 
 # dibaris line 32 pada fungsi2.py jika di exec( file ) dimatikan dan diganti dengan line 33 akan jalan semua 
-# tetapi jika di line 32 nya yang dinyalakan maka tidak akan jalan 
+# tetapi jika di line 21 nya yang dinyalakan maka tidak akan jalan 
 # kemungkinan exec( file ) akan mengeksekusi dari file test_fungsi.py nya atau file test nya
 
 # ketika exec( file ) dinyalakan maka test_script yang jalan hanya:
